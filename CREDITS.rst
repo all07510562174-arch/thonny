@@ -142,6 +142,7 @@ Source contributors, sponsors, advisors, translators and frequent bug-reporters
 * Marie Roald
 * Marko Ristin
 * Martin Rommel
+* @matejmatuska
 * Matt Iversen
 * Michel Coutu
 * Miro Hrončok
