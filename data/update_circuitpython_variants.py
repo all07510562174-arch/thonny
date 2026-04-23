@@ -20,6 +20,7 @@ base_url = "https://circuitpython.org/downloads"
 
 PREV_RELEVANT_VERSION = "9.2.9"
 RELEVANT_FAMILIES = {
+    "mimxrt10xx",
     "samd21",
     "samd51",
     "same51",
@@ -30,6 +31,7 @@ RELEVANT_FAMILIES = {
     "esp32c2",
     "esp32c3",
     "esp32c6",
+    "esp32c61",
     "esp32h2",
     "esp32p4",
     "nrf52840",
@@ -113,7 +115,7 @@ for variant in all_variants:
 save_variants(
     all_variants,
     ["uf2"],
-    {"rp2", "samd21", "samd51", "same51", "same54", "nrf51", "nrf52", "esp32s2", "esp32s3"},
+    {"rp2", "mimxrt10xx", "samd21", "samd51", "same51", "same54", "nrf51", "nrf52", "esp32p4", "esp32s2", "esp32s3"},
     "circuitpython-variants-uf2.json",
 )
 
@@ -127,7 +129,7 @@ save_variants(
 save_variants(
     all_variants,
     ["bin"],
-    {"esp32", "esp32s2", "esp32s3", "esp32c3", "esp32c6", "esp32h2"},
+    {"esp32", "esp32c2", "esp32c3", "esp32c6", "esp32c61", "esp32h2", "esp32p4", "esp32s2", "esp32s3"},
     "circuitpython-variants-esptool.json",
 )
 

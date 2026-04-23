@@ -525,6 +525,22 @@
     },
     {
         "vendor": "Adafruit",
+        "model": "Feather M7 1011",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/feather_m7_1011/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/feather_m7_1011/en_US/adafruit-circuitpython-feather_m7_1011-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/feather_m7_1011/en_US/adafruit-circuitpython-feather_m7_1011-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Adafruit",
         "model": "Feather nRF52840 Express",
         "family": "nrf52",
         "info_url": "https://circuitpython.org/board/feather_nrf52840_express/",
@@ -1106,6 +1122,38 @@
             {
                 "version": "9.2.9",
                 "url": "https://downloads.circuitpython.org/bin/metro_m4_express/en_US/adafruit-circuitpython-metro_m4_express-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Adafruit",
+        "model": "Metro M7 with AirLift",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/metro_m7_1011/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/metro_m7_1011/en_US/adafruit-circuitpython-metro_m7_1011-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/metro_m7_1011/en_US/adafruit-circuitpython-metro_m7_1011-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Adafruit",
+        "model": "Metro M7 with microSD",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/adafruit_metro_m7_1011_sd/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/adafruit_metro_m7_1011_sd/en_US/adafruit-circuitpython-adafruit_metro_m7_1011_sd-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/adafruit_metro_m7_1011_sd/en_US/adafruit-circuitpython-adafruit_metro_m7_1011_sd-en_US-9.2.9.uf2"
             }
         ]
     },
@@ -1815,6 +1863,38 @@
     },
     {
         "vendor": "arturo182",
+        "model": "Feather MIMXRT1011",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/feather_mimxrt1011/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/feather_mimxrt1011/en_US/adafruit-circuitpython-feather_mimxrt1011-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/feather_mimxrt1011/en_US/adafruit-circuitpython-feather_mimxrt1011-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "arturo182",
+        "model": "Feather MIMXRT1062",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/feather_mimxrt1062/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/feather_mimxrt1062/en_US/adafruit-circuitpython-feather_mimxrt1062-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/feather_mimxrt1062/en_US/adafruit-circuitpython-feather_mimxrt1062-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "arturo182",
         "model": "Serpente",
         "family": "samd21",
         "info_url": "https://circuitpython.org/board/serpente/",
@@ -2222,7 +2302,7 @@
         "vendor": "Cytron Technologies",
         "model": "EDU PICO 2 for Pico 2 W",
         "family": "rp2",
-        "info_url": "https://circuitpython.org/board/cytron_edu_v2%20_pico_2w/",
+        "info_url": "https://circuitpython.org/board/cytron_edu_v2_pico_2w/",
         "downloads": [
             {
                 "version": "10.2.0",
@@ -2629,6 +2709,22 @@
             {
                 "version": "9.2.9",
                 "url": "https://downloads.circuitpython.org/bin/electronut_labs_papyr/en_US/adafruit-circuitpython-electronut_labs_papyr-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Espressif",
+        "model": "ESP32-P4-Function-EV-Board",
+        "family": "esp32p4",
+        "info_url": "https://circuitpython.org/board/espressif_esp32p4_function_ev/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/espressif_esp32p4_function_ev/en_US/adafruit-circuitpython-espressif_esp32p4_function_ev-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/espressif_esp32p4_function_ev/en_US/adafruit-circuitpython-espressif_esp32p4_function_ev-en_US-9.2.9.uf2"
             }
         ]
     },
@@ -4001,6 +4097,35 @@
         ]
     },
     {
+        "vendor": "M5Stack",
+        "model": "M5Stack Tab5 IoT Development Kit",
+        "family": "esp32p4",
+        "title": "Tab5 IoT Development Kit",
+        "info_url": "https://circuitpython.org/board/m5stack_tab5/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/m5stack_tab5/en_US/adafruit-circuitpython-m5stack_tab5-en_US-10.2.0.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "MakerDiary",
+        "model": "iMX RT1011 Nano Kit",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/makerdiary_imxrt1011_nanokit/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/makerdiary_imxrt1011_nanokit/en_US/adafruit-circuitpython-makerdiary_imxrt1011_nanokit-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/makerdiary_imxrt1011_nanokit/en_US/adafruit-circuitpython-makerdiary_imxrt1011_nanokit-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
         "vendor": "MakerDiary",
         "model": "M60 Mechanical Keyboard",
         "family": "nrf52",
@@ -4448,6 +4573,118 @@
             {
                 "version": "9.2.9",
                 "url": "https://downloads.circuitpython.org/bin/nullbits_bit_c_pro/en_US/adafruit-circuitpython-nullbits_bit_c_pro-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "NXP",
+        "model": "MIMXRT1010-EVK Eval Kit",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/imxrt1010_evk/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1010_evk/en_US/adafruit-circuitpython-imxrt1010_evk-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1010_evk/en_US/adafruit-circuitpython-imxrt1010_evk-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "NXP",
+        "model": "MIMXRT1015-EVK Eval Kit",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/imxrt1015_evk/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1015_evk/en_US/adafruit-circuitpython-imxrt1015_evk-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1015_evk/en_US/adafruit-circuitpython-imxrt1015_evk-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "NXP",
+        "model": "MIMXRT1020-EVK Eval Kit",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/imxrt1020_evk/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1020_evk/en_US/adafruit-circuitpython-imxrt1020_evk-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1020_evk/en_US/adafruit-circuitpython-imxrt1020_evk-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "NXP",
+        "model": "MIMXRT1040-EVK Eval Kit",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/imxrt1040_evk/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1040_evk/en_US/adafruit-circuitpython-imxrt1040_evk-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1040_evk/en_US/adafruit-circuitpython-imxrt1040_evk-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "NXP",
+        "model": "MIMXRT1050-EVKB Eval Kit",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/imxrt1050_evkb/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1050_evkb/en_US/adafruit-circuitpython-imxrt1050_evkb-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1050_evkb/en_US/adafruit-circuitpython-imxrt1050_evkb-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "NXP",
+        "model": "MIMXRT1060-EVK Eval Kit",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/imxrt1060_evk/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1060_evk/en_US/adafruit-circuitpython-imxrt1060_evk-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1060_evk/en_US/adafruit-circuitpython-imxrt1060_evk-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "NXP",
+        "model": "MIMXRT1060-EVKB Eval Kit",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/imxrt1060_evkb/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1060_evkb/en_US/adafruit-circuitpython-imxrt1060_evkb-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/imxrt1060_evkb/en_US/adafruit-circuitpython-imxrt1060_evkb-en_US-9.2.9.uf2"
             }
         ]
     },
@@ -5154,6 +5391,38 @@
         ]
     },
     {
+        "vendor": "PJRC",
+        "model": "Teensy 4.0",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/teensy40/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/teensy40/en_US/adafruit-circuitpython-teensy40-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/teensy40/en_US/adafruit-circuitpython-teensy40-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "PJRC",
+        "model": "Teensy 4.1",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/teensy41/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/teensy41/en_US/adafruit-circuitpython-teensy41-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/teensy41/en_US/adafruit-circuitpython-teensy41-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
         "vendor": "Potekku",
         "model": "COSMO-Pico",
         "family": "rp2",
@@ -5798,6 +6067,22 @@
     },
     {
         "vendor": "Solder Party",
+        "model": "ESP32-P4 Stamp XL",
+        "family": "esp32p4",
+        "info_url": "https://circuitpython.org/board/solderparty_esp32p4_stamp_xl/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/solderparty_esp32p4_stamp_xl/en_US/adafruit-circuitpython-solderparty_esp32p4_stamp_xl-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/solderparty_esp32p4_stamp_xl/en_US/adafruit-circuitpython-solderparty_esp32p4_stamp_xl-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "Solder Party",
         "model": "RP2040 Stamp",
         "family": "rp2",
         "info_url": "https://circuitpython.org/board/solderparty_rp2040_stamp/",
@@ -5905,6 +6190,22 @@
             {
                 "version": "9.2.9",
                 "url": "https://downloads.circuitpython.org/bin/sparkfun_samd51_micromod/en_US/adafruit-circuitpython-sparkfun_samd51_micromod-en_US-9.2.9.uf2"
+            }
+        ]
+    },
+    {
+        "vendor": "SparkFun",
+        "model": "MicroMod Teensy Processor",
+        "family": "mimxrt10xx",
+        "info_url": "https://circuitpython.org/board/sparkfun_teensy_micromod/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/sparkfun_teensy_micromod/en_US/adafruit-circuitpython-sparkfun_teensy_micromod-en_US-10.2.0.uf2"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/sparkfun_teensy_micromod/en_US/adafruit-circuitpython-sparkfun_teensy_micromod-en_US-9.2.9.uf2"
             }
         ]
     },

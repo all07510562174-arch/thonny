@@ -935,6 +935,18 @@
     },
     {
         "vendor": "Espressif",
+        "model": "ESP32-C61-DevKitC-1-N8R2",
+        "family": "esp32c61",
+        "info_url": "https://circuitpython.org/board/espressif_esp32c61_devkitc_1_n8r2/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/espressif_esp32c61_devkitc_1_n8r2/en_US/adafruit-circuitpython-espressif_esp32c61_devkitc_1_n8r2-en_US-10.2.0.bin"
+            }
+        ]
+    },
+    {
+        "vendor": "Espressif",
         "model": "ESP32-DevKitC-V4-WROOM-32E",
         "family": "esp32",
         "info_url": "https://circuitpython.org/board/espressif_esp32_devkitc_v4_wroom_32e/",
@@ -994,6 +1006,22 @@
             {
                 "version": "9.2.9",
                 "url": "https://downloads.circuitpython.org/bin/espressif_esp32_lyrat/en_US/adafruit-circuitpython-espressif_esp32_lyrat-en_US-9.2.9.bin"
+            }
+        ]
+    },
+    {
+        "vendor": "Espressif",
+        "model": "ESP32-P4-Function-EV-Board",
+        "family": "esp32p4",
+        "info_url": "https://circuitpython.org/board/espressif_esp32p4_function_ev/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/espressif_esp32p4_function_ev/en_US/adafruit-circuitpython-espressif_esp32p4_function_ev-en_US-10.2.0.bin"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/espressif_esp32p4_function_ev/en_US/adafruit-circuitpython-espressif_esp32p4_function_ev-en_US-9.2.9.bin"
             }
         ]
     },
@@ -1294,6 +1322,22 @@
             {
                 "version": "9.2.9",
                 "url": "https://downloads.circuitpython.org/bin/espressif_esp32s3_usb_otg_n8/en_US/adafruit-circuitpython-espressif_esp32s3_usb_otg_n8-en_US-9.2.9.bin"
+            }
+        ]
+    },
+    {
+        "vendor": "Espressif",
+        "model": "ESP8684-DevKitC-02C-N4",
+        "family": "esp32c2",
+        "info_url": "https://circuitpython.org/board/espressif_esp8684_devkitc_02_n4/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/espressif_esp8684_devkitc_02_n4/en_US/adafruit-circuitpython-espressif_esp8684_devkitc_02_n4-en_US-10.2.0.bin"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/espressif_esp8684_devkitc_02_n4/en_US/adafruit-circuitpython-espressif_esp8684_devkitc_02_n4-en_US-9.2.9.bin"
             }
         ]
     },
@@ -2240,6 +2284,19 @@
     },
     {
         "vendor": "M5Stack",
+        "model": "M5Stack Tab5 IoT Development Kit",
+        "family": "esp32p4",
+        "title": "Tab5 IoT Development Kit",
+        "info_url": "https://circuitpython.org/board/m5stack_tab5/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/m5stack_tab5/en_US/adafruit-circuitpython-m5stack_tab5-en_US-10.2.0.bin"
+            }
+        ]
+    },
+    {
+        "vendor": "M5Stack",
         "model": "M5Stack Timer Camera X",
         "family": "esp32",
         "title": "Timer Camera X",
@@ -2432,6 +2489,23 @@
             {
                 "version": "9.2.9",
                 "url": "https://downloads.circuitpython.org/bin/muselab_nanoesp32_s2_wrover/en_US/adafruit-circuitpython-muselab_nanoesp32_s2_wrover-en_US-9.2.9.bin"
+            }
+        ]
+    },
+    {
+        "vendor": "NodeMCU",
+        "model": "NodeMCU ESP32-C2",
+        "family": "esp32c2",
+        "title": "ESP32-C2",
+        "info_url": "https://circuitpython.org/board/nodemcu_esp32c2/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/nodemcu_esp32c2/en_US/adafruit-circuitpython-nodemcu_esp32c2-en_US-10.2.0.bin"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/nodemcu_esp32c2/en_US/adafruit-circuitpython-nodemcu_esp32c2-en_US-9.2.9.bin"
             }
         ]
     },
@@ -2669,6 +2743,22 @@
             {
                 "version": "9.2.9",
                 "url": "https://downloads.circuitpython.org/bin/smartbeedesigns_bee_s3/en_US/adafruit-circuitpython-smartbeedesigns_bee_s3-en_US-9.2.9.bin"
+            }
+        ]
+    },
+    {
+        "vendor": "Solder Party",
+        "model": "ESP32-P4 Stamp XL",
+        "family": "esp32p4",
+        "info_url": "https://circuitpython.org/board/solderparty_esp32p4_stamp_xl/",
+        "downloads": [
+            {
+                "version": "10.2.0",
+                "url": "https://downloads.circuitpython.org/bin/solderparty_esp32p4_stamp_xl/en_US/adafruit-circuitpython-solderparty_esp32p4_stamp_xl-en_US-10.2.0.bin"
+            },
+            {
+                "version": "9.2.9",
+                "url": "https://downloads.circuitpython.org/bin/solderparty_esp32p4_stamp_xl/en_US/adafruit-circuitpython-solderparty_esp32p4_stamp_xl-en_US-9.2.9.bin"
             }
         ]
     },
